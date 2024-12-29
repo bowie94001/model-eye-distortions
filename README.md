@@ -11,5 +11,3 @@ under review
 
 ## License
 MIT License
-
-If you have any questions, please contact hbw@jsiec.org.
