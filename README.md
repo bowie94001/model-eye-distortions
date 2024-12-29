@@ -26,9 +26,9 @@ This repository contains 3D model files (`.stl`) for two types of model eyes and
 ## How to Use
 1. Download the `.stl` files to your local machine.
 2. Open the files in any 3D modeling software or slicer software compatible with your 3D printer.
-3. Print the models using the recommended material (black resinous WL8000) or a material of your choice.
+3. Print the models using the recommended material (black resinous) or a material of your choice.
 
-## References
+## Reference
 - Nicholson L, Vazquez-Alfageme C, Clemo M, et al. Quantifying Retinal Area in Ultra-Widefield Imaging Using a 3-Dimensional Printed Eye Model. Ophthalmol Retina. 2018;2(1):65-71.
 
 ## License
